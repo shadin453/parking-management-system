@@ -1,0 +1,3 @@
+daily,
+daily,10RM
+monthly,150RM

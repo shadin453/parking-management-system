@@ -1,0 +1,6 @@
+S01,Regular,Available
+S01,Regular,Available
+S01,Regular,Available
+S01,regular,Available
+S01,Re& C:/Users/User/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/User/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/1771B85728B56F0E85F9C7BA09FE670120E1B1BC/transfers/2026-05/Parking_management_system/main.py,Available
+S01,Electrical,Available

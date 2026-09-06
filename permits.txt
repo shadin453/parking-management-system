@@ -1,0 +1,5 @@
+daily,50
+daily,50
+monthly,1500
+annual,20000
+monthly,200
